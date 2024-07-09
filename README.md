@@ -9,10 +9,9 @@ Once you see the LYNX.exe HUD, you are done launching LYNX.exe!
 
 There are also buttons on the side which you can click, and then click the "Execute" button to run that exploit!
 
-As of now, there are only 3 buttons:
+As of now, there are only 2 buttons:
 * Infinite Yield
 * HD Admin Ranker
-* VAPE Exploit
 
 More will be added soon!
 
