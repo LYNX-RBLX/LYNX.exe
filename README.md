@@ -2,7 +2,7 @@
 
 ## How To Use
 Begin by opening any executor, such as Hydrogen, KRNL, etc. Once it has loaded, inject it into a game on Roblox, and execute the following code:
-```require(18410334661).load(tostring(game.Players.LocalPlayer.Name))```
+```require(18410334661).load("YOUR-USERNAME")```. Please make sure to replace YOUR-USERNAME with your actual Roblox username.
 
 Once you see the LYNX.exe HUD, you are done launching LYNX.exe!
 
