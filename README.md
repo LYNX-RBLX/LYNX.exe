@@ -1,8 +1,7 @@
 # LYNX.exe Server-Side Executor
 
 ## How To Use
-LYNX.exe can only be used with a backdoor in a game. Below is a link to our backdoor:
-* [Backdoor1](https://create.roblox.com/store/asset/18410527712/HD-Admin)
+LYNX.exe can only be used with a backdoor in a game. There is also a whitelist system, meaning you have to be friends with the user https://www.roblox.com/users/7037499681/profile to be able to access the executor. Send a friend request, but we might not accept.
 
 Once you see the LYNX.exe HUD, you are done launching LYNX.exe!
 
